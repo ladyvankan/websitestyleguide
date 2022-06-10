@@ -34,7 +34,7 @@ body {
 
 /*Banner*/
 .banner {
-  background-image: url(https://i.imgur.com/QmmHoqF.jpg);
+  background-image: url("https://i.imgur.com/QmmHoqF.jpg");
   background-size: cover;
   border-bottom: 3px solid rgba(36, 130, 156, 1);
   height: 200px;
